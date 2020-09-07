@@ -3,7 +3,7 @@
     "pluginsConfig": {
         "googledocs": {
             "rm": "embedded",
-            "frameborder": "0",
+            "frameborder": "100",
             "width": "100%",
             "height": "500px",
             "noembed": "new window"
